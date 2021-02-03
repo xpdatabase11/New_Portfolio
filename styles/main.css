@@ -1,0 +1,24 @@
+h1 {
+	color: orange;
+	margin-left: 0.1%;
+	margin-right: 99%;
+	padding: 1%;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+}
+
+.center-block {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0.1%;
+}
+
+.center-card {
+	padding: 0.1%;
+	margin: 0.1%;
+	float: left;
+	
+}
